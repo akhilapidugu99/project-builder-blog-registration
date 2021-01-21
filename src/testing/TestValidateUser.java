@@ -5,6 +5,7 @@ import org.junit.Test;
 
 import businesslogic.ValidateUser;
 
+
 public class TestValidateUser {
 	ValidateUser vu = new ValidateUser();
 	
@@ -22,3 +23,4 @@ public class TestValidateUser {
 		}
 	}
 }
+
